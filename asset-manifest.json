@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Triple-V8/wolf.git/static/css/main.a9ace93d.css",
-    "main.js": "/Triple-V8/wolf.git/static/js/main.852fa838.js",
-    "static/media/zkwolfbg.png": "/Triple-V8/wolf.git/static/media/zkwolfbg.be63f0d7f5ed44e38928.png",
-    "static/media/zkwolfbg2.png": "/Triple-V8/wolf.git/static/media/zkwolfbg2.078903306fdc32b0f6f1.png",
-    "static/media/zkSync-logo.png": "/Triple-V8/wolf.git/static/media/zkSync-logo.9146d38ce5aefe8b58f6.png",
-    "static/media/presentation.png": "/Triple-V8/wolf.git/static/media/presentation.2d949a93e3bcab6b6622.png",
-    "static/media/zkwolflogo.png": "/Triple-V8/wolf.git/static/media/zkwolflogo.c3f0f56b47ad922e56bc.png",
-    "static/media/bootstrap-icons.woff?": "/Triple-V8/wolf.git/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
-    "static/media/funanden.png": "/Triple-V8/wolf.git/static/media/funanden.9d4907524f4815aae627.png",
-    "static/media/community.png": "/Triple-V8/wolf.git/static/media/community.b623fde105cf4be53c5d.png",
-    "static/media/faq.png": "/Triple-V8/wolf.git/static/media/faq.058cae814b8d6d82ed0c.png",
-    "static/media/bootstrap-icons.woff2?": "/Triple-V8/wolf.git/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
-    "static/media/zkwolfnobg2.png": "/Triple-V8/wolf.git/static/media/zkwolfnobg2.eff6d7563292eca78d61.png",
-    "static/media/zkwolfnobg.png": "/Triple-V8/wolf.git/static/media/zkwolfnobg.6daa977f4152f1628782.png",
-    "static/media/zkwolfnobg1.png": "/Triple-V8/wolf.git/static/media/zkwolfnobg1.23e095f7446293d9973e.png",
-    "index.html": "/Triple-V8/wolf.git/index.html",
-    "main.a9ace93d.css.map": "/Triple-V8/wolf.git/static/css/main.a9ace93d.css.map",
-    "main.852fa838.js.map": "/Triple-V8/wolf.git/static/js/main.852fa838.js.map"
+    "main.css": "/wolf/static/css/main.6ae90d3e.css",
+    "main.js": "/wolf/static/js/main.767093b7.js",
+    "static/media/zkwolfbg.png": "/wolf/static/media/zkwolfbg.be63f0d7f5ed44e38928.png",
+    "static/media/zkwolfbg2.png": "/wolf/static/media/zkwolfbg2.078903306fdc32b0f6f1.png",
+    "static/media/zkSync-logo.png": "/wolf/static/media/zkSync-logo.9146d38ce5aefe8b58f6.png",
+    "static/media/presentation.png": "/wolf/static/media/presentation.2d949a93e3bcab6b6622.png",
+    "static/media/zkwolflogo.png": "/wolf/static/media/zkwolflogo.c3f0f56b47ad922e56bc.png",
+    "static/media/bootstrap-icons.woff?": "/wolf/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/funanden.png": "/wolf/static/media/funanden.9d4907524f4815aae627.png",
+    "static/media/community.png": "/wolf/static/media/community.b623fde105cf4be53c5d.png",
+    "static/media/faq.png": "/wolf/static/media/faq.058cae814b8d6d82ed0c.png",
+    "static/media/bootstrap-icons.woff2?": "/wolf/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/zkwolfnobg2.png": "/wolf/static/media/zkwolfnobg2.eff6d7563292eca78d61.png",
+    "static/media/zkwolfnobg.png": "/wolf/static/media/zkwolfnobg.6daa977f4152f1628782.png",
+    "static/media/zkwolfnobg1.png": "/wolf/static/media/zkwolfnobg1.23e095f7446293d9973e.png",
+    "index.html": "/wolf/index.html",
+    "main.6ae90d3e.css.map": "/wolf/static/css/main.6ae90d3e.css.map",
+    "main.767093b7.js.map": "/wolf/static/js/main.767093b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9ace93d.css",
-    "static/js/main.852fa838.js"
+    "static/css/main.6ae90d3e.css",
+    "static/js/main.767093b7.js"
   ]
 }
