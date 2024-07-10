@@ -6,7 +6,7 @@ const contact = () => {
         <h3>Join Us</h3>
         <div className='contact-input'>
           <a href="https://t.me/+a0T3S_iCdYJiOWI8"><i class="bi bi-telegram"></i></a>
-          <a href="https://x.com/wolfonzksync"><i class="bi bi-twitter"></i></a>
+          <a href="https://x.com/scroll_wolves"><i class="bi bi-twitter"></i></a>
         </div>
         
     </div>
