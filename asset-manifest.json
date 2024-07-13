@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wolf/static/css/main.43a49ed1.css",
-    "main.js": "/wolf/static/js/main.db9da71d.js",
+    "main.js": "/wolf/static/js/main.77019f45.js",
     "static/media/zkwolfbg.png": "/wolf/static/media/zkwolfbg.be63f0d7f5ed44e38928.png",
     "static/media/zkwolfbg2.png": "/wolf/static/media/zkwolfbg2.078903306fdc32b0f6f1.png",
     "static/media/zkSync-logo.png": "/wolf/static/media/zkSync-logo.9146d38ce5aefe8b58f6.png",
@@ -17,10 +17,10 @@
     "static/media/zkwolfnobg1.png": "/wolf/static/media/zkwolfnobg1.23e095f7446293d9973e.png",
     "index.html": "/wolf/index.html",
     "main.43a49ed1.css.map": "/wolf/static/css/main.43a49ed1.css.map",
-    "main.db9da71d.js.map": "/wolf/static/js/main.db9da71d.js.map"
+    "main.77019f45.js.map": "/wolf/static/js/main.77019f45.js.map"
   },
   "entrypoints": [
     "static/css/main.43a49ed1.css",
-    "static/js/main.db9da71d.js"
+    "static/js/main.77019f45.js"
   ]
 }
