@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.f0c3f80b.css",
-    "main.js": "/static/js/main.49ebc48a.js",
+    "main.js": "/static/js/main.c022baeb.js",
     "static/media/zkwolfbg.png": "/static/media/zkwolfbg.be63f0d7f5ed44e38928.png",
     "static/media/zkwolfbg2.png": "/static/media/zkwolfbg2.078903306fdc32b0f6f1.png",
-    "static/media/zkSync-logo.png": "/static/media/zkSync-logo.9146d38ce5aefe8b58f6.png",
     "static/media/presentation.png": "/static/media/presentation.2d949a93e3bcab6b6622.png",
     "static/media/zkwolflogo.png": "/static/media/zkwolflogo.c3f0f56b47ad922e56bc.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
@@ -17,10 +16,10 @@
     "static/media/zkwolfnobg1.png": "/static/media/zkwolfnobg1.23e095f7446293d9973e.png",
     "index.html": "/index.html",
     "main.f0c3f80b.css.map": "/static/css/main.f0c3f80b.css.map",
-    "main.49ebc48a.js.map": "/static/js/main.49ebc48a.js.map"
+    "main.c022baeb.js.map": "/static/js/main.c022baeb.js.map"
   },
   "entrypoints": [
     "static/css/main.f0c3f80b.css",
-    "static/js/main.49ebc48a.js"
+    "static/js/main.c022baeb.js"
   ]
 }
